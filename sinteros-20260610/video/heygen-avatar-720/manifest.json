@@ -13,21 +13,25 @@
   "videos": {
     "status-graph-1": {
       "file": "status-graph-1-sergey-avatar-720.mp4",
+      "cover": "covers/status-graph-1-sergey-avatar-720.jpg",
       "duration_seconds": 20.245,
       "size_bytes": 4056721
     },
     "stimul-olbany-1": {
       "file": "stimul-olbany-1-sergey-avatar-720.mp4",
+      "cover": "covers/stimul-olbany-1-sergey-avatar-720.jpg",
       "duration_seconds": 22.058,
       "size_bytes": 4289853
     },
     "bonus-nord-1": {
       "file": "bonus-nord-1-sergey-avatar-720.mp4",
+      "cover": "covers/bonus-nord-1-sergey-avatar-720.jpg",
       "duration_seconds": 21.499675,
       "size_bytes": 4441187
     },
     "drive-maggy-1": {
       "file": "drive-maggy-1-sergey-avatar-720.mp4",
+      "cover": "covers/drive-maggy-1-sergey-avatar-720.jpg",
       "duration_seconds": 22.766341,
       "size_bytes": 4385434
     }
