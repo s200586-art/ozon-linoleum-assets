@@ -1,0 +1,40 @@
+{
+  "created_at": "2026-06-14",
+  "purpose": "Ozon-compatible avatar MP4: H.264 constrained baseline, no B-frames, yuv420p, faststart",
+  "encoding": {
+    "width": 720,
+    "height": 1280,
+    "video_codec": "h264",
+    "profile": "Constrained Baseline",
+    "level": "3.2",
+    "has_b_frames": 0,
+    "audio_codec": "aac",
+    "audio_bitrate": "128k"
+  },
+  "videos": {
+    "status-graph-1": {
+      "file": "status-graph-1-sergey-avatar-ozon.mp4",
+      "cover": "status-graph-1-sergey-avatar-ozon.jpg",
+      "duration_seconds": 20.245,
+      "size_bytes": 5339277
+    },
+    "stimul-olbany-1": {
+      "file": "stimul-olbany-1-sergey-avatar-ozon.mp4",
+      "cover": "stimul-olbany-1-sergey-avatar-ozon.jpg",
+      "duration_seconds": 22.058,
+      "size_bytes": 5612710
+    },
+    "bonus-nord-1": {
+      "file": "bonus-nord-1-sergey-avatar-ozon.mp4",
+      "cover": "bonus-nord-1-sergey-avatar-ozon.jpg",
+      "duration_seconds": 21.499675,
+      "size_bytes": 5754489
+    },
+    "drive-maggy-1": {
+      "file": "drive-maggy-1-sergey-avatar-ozon.mp4",
+      "cover": "drive-maggy-1-sergey-avatar-ozon.jpg",
+      "duration_seconds": 22.766341,
+      "size_bytes": 5775360
+    }
+  }
+}
