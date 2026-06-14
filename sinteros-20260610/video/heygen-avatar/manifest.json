@@ -1,0 +1,40 @@
+{
+  "created_at": "2026-06-14",
+  "source": "HeyGen edited avatar videos",
+  "avatar": "Sergey blogger look",
+  "voice": "Sergey",
+  "videos": {
+    "status-graph-1": {
+      "heygen_id": "2f3e4f81-597b-45e0-8540-4a4bc642675e",
+      "heygen_title": "Sinteros Status Graph 1 Explained",
+      "file": "status-graph-1-sergey-avatar.mp4",
+      "duration_seconds": 20.245333,
+      "width": 1080,
+      "height": 1920
+    },
+    "stimul-olbany-1": {
+      "heygen_id": "9dc5c902-6727-468a-bda1-ea3910be6c61",
+      "heygen_title": "Olbany: Warm Floor Details",
+      "file": "stimul-olbany-1-sergey-avatar.mp4",
+      "duration_seconds": 22.058667,
+      "width": 1080,
+      "height": 1920
+    },
+    "bonus-nord-1": {
+      "heygen_id": "16f80021-6e19-46e5-a7d1-0dc90ae1604b",
+      "heygen_title": "Sinteros Bonus Nord Avatar Edit",
+      "file": "bonus-nord-1-sergey-avatar.mp4",
+      "duration_seconds": 21.487696,
+      "width": 1080,
+      "height": 1920
+    },
+    "drive-maggy-1": {
+      "heygen_id": "dbdfec97-f86d-4456-9f96-fb4949031459",
+      "heygen_title": "Sergey Reviews Herringbone Wood Floor",
+      "file": "drive-maggy-1-sergey-avatar.mp4",
+      "duration_seconds": 22.762667,
+      "width": 1080,
+      "height": 1920
+    }
+  }
+}
