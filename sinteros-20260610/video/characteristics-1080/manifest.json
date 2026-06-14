@@ -1,0 +1,102 @@
+[
+  {
+    "file": "bonus-nord-1-characteristics-1080.mp4",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "profile": "High",
+          "width": 1080,
+          "height": 1920,
+          "has_b_frames": 0,
+          "pix_fmt": "yuv420p",
+          "level": 41,
+          "r_frame_rate": "30/1",
+          "avg_frame_rate": "30/1"
+        }
+      ],
+      "format": {
+        "duration": "23.733008",
+        "size": "12670137",
+        "bit_rate": "4270891"
+      }
+    }
+  },
+  {
+    "file": "drive-maggy-1-characteristics-1080.mp4",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "profile": "High",
+          "width": 1080,
+          "height": 1920,
+          "has_b_frames": 0,
+          "pix_fmt": "yuv420p",
+          "level": 41,
+          "r_frame_rate": "30/1",
+          "avg_frame_rate": "30/1"
+        }
+      ],
+      "format": {
+        "duration": "23.133008",
+        "size": "12524439",
+        "bit_rate": "4331279"
+      }
+    }
+  },
+  {
+    "file": "status-graph-1-characteristics-1080.mp4",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "profile": "High",
+          "width": 1080,
+          "height": 1920,
+          "has_b_frames": 0,
+          "pix_fmt": "yuv420p",
+          "level": 41,
+          "r_frame_rate": "30/1",
+          "avg_frame_rate": "30/1"
+        }
+      ],
+      "format": {
+        "duration": "30.599675",
+        "size": "16526391",
+        "bit_rate": "4320670"
+      }
+    }
+  },
+  {
+    "file": "stimul-olbany-1-characteristics-1080.mp4",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "profile": "High",
+          "width": 1080,
+          "height": 1920,
+          "has_b_frames": 0,
+          "pix_fmt": "yuv420p",
+          "level": 41,
+          "r_frame_rate": "30/1",
+          "avg_frame_rate": "30/1"
+        }
+      ],
+      "format": {
+        "duration": "24.366341",
+        "size": "13402418",
+        "bit_rate": "4400305"
+      }
+    }
+  }
+]
