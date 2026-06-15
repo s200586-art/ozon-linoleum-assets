@@ -1,0 +1,52 @@
+[
+  {
+    "file": "status-geometry-1-characteristics-1080.mp4",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "profile": "High",
+          "width": 1080,
+          "height": 1920,
+          "has_b_frames": 0,
+          "pix_fmt": "yuv420p",
+          "level": 41,
+          "r_frame_rate": "30/1",
+          "avg_frame_rate": "30/1"
+        }
+      ],
+      "format": {
+        "duration": "25.899675",
+        "size": "13989976",
+        "bit_rate": "4321282"
+      }
+    }
+  },
+  {
+    "file": "status-geometry-1-sergey-avatar-1080.mp4",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "profile": "High",
+          "width": 1080,
+          "height": 1920,
+          "has_b_frames": 0,
+          "pix_fmt": "yuv420p",
+          "level": 41,
+          "r_frame_rate": "30/1",
+          "avg_frame_rate": "30/1"
+        }
+      ],
+      "format": {
+        "duration": "25.879000",
+        "size": "13998532",
+        "bit_rate": "4327379"
+      }
+    }
+  }
+]
