@@ -1,0 +1,41 @@
+[
+  {
+    "offer_id": "00-00015349",
+    "slug": "integra-08-nevada",
+    "files": [
+      "01-main.jpg",
+      "02-specs.jpg",
+      "03-interior.jpg"
+    ]
+  },
+  {
+    "offer_id": "00-00015345",
+    "slug": "integra-04-severny-yasen",
+    "files": [
+      "01-main.jpg",
+      "02-specs.jpg",
+      "03-interior.jpg"
+    ]
+  },
+  {
+    "offer_id": "ЦБ-00029985",
+    "slug": "integra-44-manorial",
+    "files": [
+      "01-main.jpg",
+      "02-specs.jpg",
+      "03-interior.jpg"
+    ]
+  },
+  {
+    "offer_id": "00-00015575",
+    "slug": "vigo60-01-white",
+    "files": [
+      "01-main.jpg",
+      "02-specs.jpg",
+      "03-interior.jpg",
+      "04-official-interior.jpg",
+      "05-official-interior.jpg",
+      "06-official-interior.jpg"
+    ]
+  }
+]
