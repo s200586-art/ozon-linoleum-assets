@@ -1,0 +1,42 @@
+[
+  {
+    "offer_id": "00-00015349",
+    "slug": "integra-08-nevada",
+    "files": [
+      "01-hero-interior.jpg",
+      "02-product.jpg",
+      "03-profile-size.jpg"
+    ],
+    "imagen_source": "/Users/s200586gmail.com/.codex/generated_images/019f0446-bd33-7fe3-87c0-67040b5d5980/ig_049166fb7adfec2b016a3e9a02af108191a27f8a72f7623d34.png"
+  },
+  {
+    "offer_id": "00-00015345",
+    "slug": "integra-04-severny-yasen",
+    "files": [
+      "01-hero-interior.jpg",
+      "02-product.jpg",
+      "03-profile-size.jpg"
+    ],
+    "imagen_source": "/Users/s200586gmail.com/.codex/generated_images/019f0446-bd33-7fe3-87c0-67040b5d5980/ig_049166fb7adfec2b016a3e99c8fcd881919143109fb70abf11.png"
+  },
+  {
+    "offer_id": "ЦБ-00029985",
+    "slug": "integra-44-manorial",
+    "files": [
+      "01-hero-interior.jpg",
+      "02-product.jpg",
+      "03-profile-size.jpg"
+    ],
+    "imagen_source": "/Users/s200586gmail.com/.codex/generated_images/019f0446-bd33-7fe3-87c0-67040b5d5980/ig_049166fb7adfec2b016a3e99517b2081919dc5b5fec10dbfb4.png"
+  },
+  {
+    "offer_id": "00-00015575",
+    "slug": "vigo60-01-white",
+    "files": [
+      "01-hero-interior.jpg",
+      "02-product.jpg",
+      "03-profile-size.jpg"
+    ],
+    "imagen_source": "/Users/s200586gmail.com/.codex/generated_images/019f0446-bd33-7fe3-87c0-67040b5d5980/ig_049166fb7adfec2b016a3e9a3c5bf481918b92ccb739d19294.png"
+  }
+]
