@@ -1,0 +1,406 @@
+{
+  "campaign": "semey1-20260828",
+  "product": "Tarkett Kvazar SEMEY 1",
+  "seller": "Ideal Home",
+  "date": "2026-08-28",
+  "sku_count": 26,
+  "common": {
+    "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+    "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+    "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+    "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+  },
+  "note": "Size cards from current gallery (cards_v13 not present at publish). Marketplace APIs not called.",
+  "items": [
+    {
+      "offer_id": "ЦБ-00032613",
+      "slug": "cb-00032613",
+      "size": "2.5x1",
+      "width_m": 2.5,
+      "length_m": 1.0,
+      "paths": {
+        "hero": "images/sku/cb-00032613/01-hero.png",
+        "size": "images/sku/cb-00032613/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032614",
+      "slug": "cb-00032614",
+      "size": "2.5x1.5",
+      "width_m": 2.5,
+      "length_m": 1.5,
+      "paths": {
+        "hero": "images/sku/cb-00032614/01-hero.png",
+        "size": "images/sku/cb-00032614/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032615",
+      "slug": "cb-00032615",
+      "size": "2.5x2",
+      "width_m": 2.5,
+      "length_m": 2.0,
+      "paths": {
+        "hero": "images/sku/cb-00032615/01-hero.png",
+        "size": "images/sku/cb-00032615/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032616",
+      "slug": "cb-00032616",
+      "size": "2.5x2.5",
+      "width_m": 2.5,
+      "length_m": 2.5,
+      "paths": {
+        "hero": "images/sku/cb-00032616/01-hero.png",
+        "size": "images/sku/cb-00032616/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032617",
+      "slug": "cb-00032617",
+      "size": "2.5x3",
+      "width_m": 2.5,
+      "length_m": 3.0,
+      "paths": {
+        "hero": "images/sku/cb-00032617/01-hero.png",
+        "size": "images/sku/cb-00032617/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032618",
+      "slug": "cb-00032618",
+      "size": "2.5x3.5",
+      "width_m": 2.5,
+      "length_m": 3.5,
+      "paths": {
+        "hero": "images/sku/cb-00032618/01-hero.png",
+        "size": "images/sku/cb-00032618/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032619",
+      "slug": "cb-00032619",
+      "size": "2.5x4",
+      "width_m": 2.5,
+      "length_m": 4.0,
+      "paths": {
+        "hero": "images/sku/cb-00032619/01-hero.png",
+        "size": "images/sku/cb-00032619/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032620",
+      "slug": "cb-00032620",
+      "size": "2.5x4.5",
+      "width_m": 2.5,
+      "length_m": 4.5,
+      "paths": {
+        "hero": "images/sku/cb-00032620/01-hero.png",
+        "size": "images/sku/cb-00032620/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032621",
+      "slug": "cb-00032621",
+      "size": "2.5x5",
+      "width_m": 2.5,
+      "length_m": 5.0,
+      "paths": {
+        "hero": "images/sku/cb-00032621/01-hero.png",
+        "size": "images/sku/cb-00032621/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032622",
+      "slug": "cb-00032622",
+      "size": "2.5x5.5",
+      "width_m": 2.5,
+      "length_m": 5.5,
+      "paths": {
+        "hero": "images/sku/cb-00032622/01-hero.png",
+        "size": "images/sku/cb-00032622/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032623",
+      "slug": "cb-00032623",
+      "size": "2.5x6",
+      "width_m": 2.5,
+      "length_m": 6.0,
+      "paths": {
+        "hero": "images/sku/cb-00032623/01-hero.png",
+        "size": "images/sku/cb-00032623/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032636",
+      "slug": "cb-00032636",
+      "size": "2.5x6.5",
+      "width_m": 2.5,
+      "length_m": 6.5,
+      "paths": {
+        "hero": "images/sku/cb-00032636/01-hero.png",
+        "size": "images/sku/cb-00032636/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032637",
+      "slug": "cb-00032637",
+      "size": "2.5x7",
+      "width_m": 2.5,
+      "length_m": 7.0,
+      "paths": {
+        "hero": "images/sku/cb-00032637/01-hero.png",
+        "size": "images/sku/cb-00032637/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032610",
+      "slug": "cb-00032610",
+      "size": "3.5x1",
+      "width_m": 3.5,
+      "length_m": 1.0,
+      "paths": {
+        "hero": "images/sku/cb-00032610/01-hero.png",
+        "size": "images/sku/cb-00032610/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032624",
+      "slug": "cb-00032624",
+      "size": "3.5x1.5",
+      "width_m": 3.5,
+      "length_m": 1.5,
+      "paths": {
+        "hero": "images/sku/cb-00032624/01-hero.png",
+        "size": "images/sku/cb-00032624/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032625",
+      "slug": "cb-00032625",
+      "size": "3.5x2",
+      "width_m": 3.5,
+      "length_m": 2.0,
+      "paths": {
+        "hero": "images/sku/cb-00032625/01-hero.png",
+        "size": "images/sku/cb-00032625/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032626",
+      "slug": "cb-00032626",
+      "size": "3.5x2.5",
+      "width_m": 3.5,
+      "length_m": 2.5,
+      "paths": {
+        "hero": "images/sku/cb-00032626/01-hero.png",
+        "size": "images/sku/cb-00032626/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032627",
+      "slug": "cb-00032627",
+      "size": "3.5x3",
+      "width_m": 3.5,
+      "length_m": 3.0,
+      "paths": {
+        "hero": "images/sku/cb-00032627/01-hero.png",
+        "size": "images/sku/cb-00032627/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032628",
+      "slug": "cb-00032628",
+      "size": "3.5x3.5",
+      "width_m": 3.5,
+      "length_m": 3.5,
+      "paths": {
+        "hero": "images/sku/cb-00032628/01-hero.png",
+        "size": "images/sku/cb-00032628/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032629",
+      "slug": "cb-00032629",
+      "size": "3.5x4",
+      "width_m": 3.5,
+      "length_m": 4.0,
+      "paths": {
+        "hero": "images/sku/cb-00032629/01-hero.png",
+        "size": "images/sku/cb-00032629/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032630",
+      "slug": "cb-00032630",
+      "size": "3.5x4.5",
+      "width_m": 3.5,
+      "length_m": 4.5,
+      "paths": {
+        "hero": "images/sku/cb-00032630/01-hero.png",
+        "size": "images/sku/cb-00032630/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032631",
+      "slug": "cb-00032631",
+      "size": "3.5x5",
+      "width_m": 3.5,
+      "length_m": 5.0,
+      "paths": {
+        "hero": "images/sku/cb-00032631/01-hero.png",
+        "size": "images/sku/cb-00032631/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032632",
+      "slug": "cb-00032632",
+      "size": "3.5x5.5",
+      "width_m": 3.5,
+      "length_m": 5.5,
+      "paths": {
+        "hero": "images/sku/cb-00032632/01-hero.png",
+        "size": "images/sku/cb-00032632/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032633",
+      "slug": "cb-00032633",
+      "size": "3.5x6",
+      "width_m": 3.5,
+      "length_m": 6.0,
+      "paths": {
+        "hero": "images/sku/cb-00032633/01-hero.png",
+        "size": "images/sku/cb-00032633/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032634",
+      "slug": "cb-00032634",
+      "size": "3.5x6.5",
+      "width_m": 3.5,
+      "length_m": 6.5,
+      "paths": {
+        "hero": "images/sku/cb-00032634/01-hero.png",
+        "size": "images/sku/cb-00032634/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    },
+    {
+      "offer_id": "ЦБ-00032635",
+      "slug": "cb-00032635",
+      "size": "3.5x7",
+      "width_m": 3.5,
+      "length_m": 7.0,
+      "paths": {
+        "hero": "images/sku/cb-00032635/01-hero.png",
+        "size": "images/sku/cb-00032635/02-size.png",
+        "thickness": "images/common/tarkett-kvazar-semey-1/03-thickness.png",
+        "application": "images/common/tarkett-kvazar-semey-1/04-application.png",
+        "practicality": "images/common/tarkett-kvazar-semey-1/05-practicality.png",
+        "texture": "images/common/tarkett-kvazar-semey-1/06-texture.jpg"
+      }
+    }
+  ]
+}
