@@ -1,0 +1,17 @@
+{
+  "campaign": "magnatex-20260904",
+  "created_at_almaty": "2026-09-04T19:27:42.873772+05:00",
+  "product": "IVC TEXTiLE MAGNATEX",
+  "seller": "Ideal Home",
+  "structure": {
+    "common": "images/common/ivc-magnatex/{02-size,03-thickness,04-application,05-practicality}.jpg",
+    "designs": "images/designs/{belfort_533,lawrence_534,lawrence_535,grand_oak_891}/{01-hero,06-texture}.jpg"
+  },
+  "note": "Shared 1533 plates 02-05 for all designs; per-design hero+texture. No per-SKU size widgets.",
+  "designs": [
+    "belfort_533",
+    "lawrence_534",
+    "lawrence_535",
+    "grand_oak_891"
+  ]
+}
